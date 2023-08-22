@@ -7,42 +7,42 @@ date: June 15, 2021
 amount: 211500 PART
 milestones:
   - name: Month 1
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 23 August 2021
+    status: finished
   - name: Month 2
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 21 September 2021
+    status: finished
   - name: Month 3
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 22 October 2021
+    status: finished
   - name: Month 4
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 22 November 2021
+    status: finished
   - name: Month 5
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 23 December 2021
+    status: finished
   - name: Month 6
-    funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    funds: 16.66% (35250 PART)
+    done: 22 January 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 August 2021
+    amount: 35250
+  - date: 21 September 2021
+    amount: 35250
+  - date: 22 October 2021
+    amount: 35250
+  - date: 22 November 2021
+    amount: 35250
+  - date: 23 December 2021
+    amount: 35250
+  - date: 22 January 2022
+    amount: 35250
 ---
 
 # Summary
